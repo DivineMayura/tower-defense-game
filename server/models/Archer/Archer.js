@@ -27,6 +27,18 @@ const archerSchema = new Schema({
     description: {
         type: String
     },
+    damage: {
+        type: Number
+    },
+    // This is basically distance the radius extends from the placed unit.
+    // Since I'm not sure if i'll be using the work "Range" later
+    // I don't want to create any conflicts by including it here.
+    fireDistance: {
+        type: Number
+    },
+    fireRate: {
+        type: Number
+    },
     // Only allow the player to create this unit if they have it unlocked.
     unlocked: {
         type: Boolean,
