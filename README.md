@@ -1,7 +1,11 @@
 # tower-defense-game
 A Tower Defense Game
 
-## Getting Started
+## Navigation
+* [Built With](#built-with)
+* [Deployed Link](#deployed-link)
+* [Authors](#authors)
+* [License](#license)
 
 
 ## Built With
@@ -9,7 +13,16 @@ A Tower Defense Game
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Piskel](https://www.piskelapp.com/)
+
+A ton more I'll add later.
+
+
+
+
+
+
+
+* [Piskel  - for creating terrain sprites](https://www.piskelapp.com/)
 
 ## Deployed Link
 
@@ -20,13 +33,11 @@ Not Up yet.
 ## Authors
 
 * **DivineMayura**
-* May Faucher
+  * aka:  May Faucher
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- [Link to Portfolio Site](https://divinemayura.github.io/react-portfolio-1/)
+- [Link to Github](https://github.com/DivineMayura)
+- [Link to LinkedIn](https://www.linkedin.com/in/mayfaucher/)
 
 ## License
 
