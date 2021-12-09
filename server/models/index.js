@@ -12,11 +12,14 @@
 
 const Account = require("./Account");
 const Profile = require("./Profile");
+const ProfileUpgrades = require("./ProfileUpgrades");
 const Towers = require("./Towers");
 const Archer = require("./Archer");
+const ArcherSkills = require("./ArcherSkills");
 const Mage = require("./Mage");
+const MageSkills = require("./MageSkills");
 const Knight = require("./Knight");
+const KnightSkills = require("./KnightSkills")
 
 
-
-module.exports = { Account }
+module.exports = { Account, Archer }
