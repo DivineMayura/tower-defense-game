@@ -11,7 +11,11 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "May Faucher",
+    "email": "MayyFaucher@gmail.com",
+    "url": "https://www.linkedin.com/in/mayfaucher/"
+  },
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^6.4.0"
